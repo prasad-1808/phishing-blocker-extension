@@ -30,7 +30,6 @@
 
  <h2>To download files</h2>
  1. Directly download the source files from GitHub and unzip the folder:<br>
- <img src="![image](https://github.com/prasad-1808/phishing-blocker-extension/assets/86564180/5c634306-9a9c-4133-9675-cf85d71ffad4)" height="300px" width="300px" alt="Git Download Zip">
  2. Clone the files using terminal/cmd using the following commands:<br>
  
  `git clone https://github.com/prasad-1808/phishing-blocker-extension`<br>
@@ -39,7 +38,7 @@
 
  - # Step 1: Setting the back-end program:
 
-   `cd "API and ML algorithm"`
+   `cd "API and ML algorithm"`<br>
    `python hello.py` -> This generates the model.pkl file
 
    
