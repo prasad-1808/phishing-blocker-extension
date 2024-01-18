@@ -8,17 +8,17 @@
    <h4>Phishing blocker browser extension employs machine learning algorithms to analyze various characteristics of URLs, assessing their potential vulnerability to phishing attacks. By leveraging advanced techniques, the extension helps users make informed decisions about the safety of websites, reducing the risk of falling victim to phishing scams.</h4>
 
  - <h3>Parental Control</h3>
-   <h4>Phishng blocker browser extension enhances online safety by providing robust parental control features. It is possible to manually add several sites to the blocked list so that these sites can't be accessed by the browser.</h4>
+   <h4> Phishing blocker browser extension enhances online safety by providing robust parental control features. It is possible to manually add several sites to the blocked list so that these sites can't be accessed by the browser.</h4>
 
  - <h3>Traffic Monitoring</h3>
    <h4>Phishing blocker browser extension actively monitors browser traffic, providing users with insights into their online interactions. This feature enables users to review and control incoming and outgoing requests, empowering them to make real-time decisions about allowing or blocking specific requests based on their preferences.</h4>
 
 # Languages used:
-  - Front End:
-      - <img src="https://i.ytimg.com/vi/SL44Iqy8Lnc/maxresdefault.jpg" alt="HTML" width="60px" height="60px">
-      - <img src="https://1.bp.blogspot.com/-m4TTXg7Oof4/XlJFOC9iQmI/AAAAAAAAACc/gjl4x37MVFIH7th8Y1xmelomiX4rYRwewCLcBGAsYHQ/s1600/css3.png" alt="CSS" width="60px" height="60px">
-      - <img src="https://www.ingenioussofttech.com/wp-content/uploads/2019/01/Javascript_badge.svg_-946x1024.png" alt="Javascript" width="60px" height="60px">
-  - Application Programming Interface (API):
-      - <img src="https://1.bp.blogspot.com/-X5OBU37Ims4/XQexxebsV0I/AAAAAAAAD80/PlMIGUQBY3YwRugZNLvdRaI2Pw_g0jIlgCLcBGAs/s1600/Python%2BProgramming%2BLogo.png" alt="Python" width="60px" height="60px">
-  - Back End:
-      - <img src="https://1.bp.blogspot.com/-X5OBU37Ims4/XQexxebsV0I/AAAAAAAAD80/PlMIGUQBY3YwRugZNLvdRaI2Pw_g0jIlgCLcBGAs/s1600/Python%2BProgramming%2BLogo.png" alt="Python" width="60px" height="60px">
+  - <h3>Front End:</h3>
+    <img src="https://tutorialpandit.com/wp-content/uploads/2018/09/html.png" alt="HTML" width="150px" height="150px">
+    <img src="http://learn.simonrankin.art/wp-content/uploads/sites/6/2020/07/css-feature-image.png" alt="CSS" width="150px" height="150px">
+    <img src="https://webdesignledger.com/wp-content/uploads/2015/12/javascript.png" width="150px" height="150px">
+  - <h3>Application Programming Interface (API):<h3>
+    <img src="https://bizflyportal.mediacdn.vn/thumb_wm/1000,100/bizflyportal/images/fla16172661186968.jpg" alt="Python" width="200px" height="150px">
+  - <h3>Back End:<h3>
+    <img src="https://1.bp.blogspot.com/-X5OBU37Ims4/XQexxebsV0I/AAAAAAAAD80/PlMIGUQBY3YwRugZNLvdRaI2Pw_g0jIlgCLcBGAs/s1600/Python%2BProgramming%2BLogo.png" alt="Python" width="150px" height="150px">
